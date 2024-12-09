@@ -33,8 +33,8 @@ const useStyles = makeStyles(theme => ({
 	root: {
 		width: "100vw",
 		height: "100vh",
-		//background: "linear-gradient(to right, #191970 , #00008B , #0000FF)", //Cor de fundo
-		 backgroundImage: "url(https://helloclique.com.br/imagens/logo1.png)",
+		background: "linear-gradient(to right, #C0C0C0 , #D3D3D3 , #DCDCDC)", //Cor de fundo
+		//backgroundImage: "url(https://helloclique.com.br/imagens/logo1.png)",
 		 backgroundRepeat: "no-repeat",
 		 backgroundSize: "100% 100%",
 		 backgroundPosition: "center",
@@ -146,7 +146,7 @@ const Login = () => {
 				</form>
 			</div>
 			<br/>
-			<a target="_blank" href="https://helloclique.com.br" className={classes.powered}>Hello Clique / Hello Drop - https://helloclique.com.br</a>
+			<a target="_blank" href="https://grupoendor.com.br" className={classes.powered}>Grupo Endor TI $ Telecom</a>
 			<Box mt={8}>{/* <Copyright /> */}</Box>
 		</Container>
 		</div>
