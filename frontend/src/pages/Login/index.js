@@ -146,7 +146,7 @@ const Login = () => {
 				</form>
 			</div>
 			<br/>
-			<a target="_blank" href="https://grupoendor.com.br" className={classes.powered}>Grupo Endor TI $ Telecom</a>
+			<a target="_blank" href="https://grupoendor.com.br" className={classes.powered}>Grupo Endor TI & Telecom</a>
 			<Box mt={8}>{/* <Copyright /> */}</Box>
 		</Container>
 		</div>
